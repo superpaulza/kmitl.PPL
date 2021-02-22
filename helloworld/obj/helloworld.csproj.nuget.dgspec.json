@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "d:\\OneDrive - Bangkok Christian College\\Project\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj": {}
+    "d:\\OneDrive - Bangkok Christian College\\Development\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj": {}
   },
   "projects": {
-    "d:\\OneDrive - Bangkok Christian College\\Project\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj": {
+    "d:\\OneDrive - Bangkok Christian College\\Development\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\OneDrive - Bangkok Christian College\\Project\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj",
+        "projectUniqueName": "d:\\OneDrive - Bangkok Christian College\\Development\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "d:\\OneDrive - Bangkok Christian College\\Project\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj",
+        "projectPath": "d:\\OneDrive - Bangkok Christian College\\Development\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\helloworld.csproj",
         "packagesPath": "C:\\Users\\paul_\\.nuget\\packages\\",
-        "outputPath": "d:\\OneDrive - Bangkok Christian College\\Project\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\obj\\",
+        "outputPath": "d:\\OneDrive - Bangkok Christian College\\Development\\Workspace\\KMITL\\kmitl.PPL\\helloworld\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\paul_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\paul_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
